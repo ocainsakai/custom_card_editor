@@ -21,6 +21,7 @@ In Unity, go to menu:
    `Window → Tools → Generate Deck`
 <img width="461" height="202" alt="image" src="https://github.com/user-attachments/assets/655cfb35-6f44-460f-8c32-6eeeb7a4cb73" />
 <img width="617" height="325" alt="image" src="https://github.com/user-attachments/assets/b5330afd-9f5a-460d-b7da-2a09c9043329" />
+
 Result
 <img width="502" height="439" alt="image" src="https://github.com/user-attachments/assets/c8b42d05-c562-4703-83d7-29086026a7f3" />
 
