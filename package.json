@@ -4,7 +4,7 @@
   "displayName": "Ain Card",
   "description": "This is an create 52 standard cards package",
   "unity": "6000.0",
-  "unityRelease": "50f",
+  "unityRelease": "25f1",
   "dependencies": {
     "com.cysharp.unitask": "https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask"
 
