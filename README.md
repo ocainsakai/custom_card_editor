@@ -7,7 +7,8 @@ This package provides a custom inspector/editor for easily defining card attribu
 
 ## 📦 Installation
 
-Add this package to your Unity project using **Git URL**: https://github.com/ocainsakai/custom_card_editor.git
+Add this package to your Unity project using **[Git URL](https://github.com/ocainsakai/custom_card_editor.git)**: 
+
 <img width="1244" height="943" alt="image" src="https://github.com/user-attachments/assets/0b085019-fd73-4bc1-8a1b-c43425f4a472" />
 
 ## ✨ Features
